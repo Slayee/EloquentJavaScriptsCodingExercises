@@ -1,5 +1,8 @@
 //  Fizz Buzz(mycode)
-/*
+//  This program display -
+// 1. Fizz for no. divisible by 3.
+// 2. Buzz for no. divisible by 5.
+// 3. FizzBuzz for no. divisible by both 3 and 5.
 let num = 1;
 while (num <= 100){
     if (num%3==0&&num%5==0){
@@ -16,7 +19,7 @@ while (num <= 100){
     }
  num+=1;
 }
-*/
+
 
 //  FizzBuzzBook Solution
 
