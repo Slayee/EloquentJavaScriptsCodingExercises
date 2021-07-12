@@ -43,3 +43,19 @@ function countChar(string, char){
 }
 
 console.log(countChar("Sagar is FrontEndProgrammer", "m"));
+
+
+// Bean COunting (book solution)
+// function countChar(string, ch){
+//     let count = 0;
+//     if (typeof string == "string"){
+//         for (let i = 0; i < string.length; i++) {
+//             if(string[i] === ch) count++;
+//         }
+//         return count;
+//     }
+// }
+
+// function countBs(string){
+//     return countChar(string, "B");
+// }
